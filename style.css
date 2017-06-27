@@ -1,16 +1,48 @@
-.page-title{
+.contact-info{ 
+  text-align:  center;
+  line-height: 10px;
+}
+
+.container {
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+
+	padding: 10px 150px 10px 150px;
+
+	border-radius: 10px;
+	background-color: #807567;
+
+	text-align: left;
+}
+
+.underline {
+  text-decoration: underline
+}
+
+.date {
+	float: right;
+}
+
+.italics {
+  font-style: italic;
+}
+
+.group-headers{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+p {
+  font-size: 15px;
+}
+
+.employer{
+  font-size: 20px;
+}
+
+.header{
+  font-size: 56px;
   text-align: center;
-  font-weight:bold;
-}
-
-.addr-info{
-    display: flex; 
-  flex-wrap: wrap; 
-  justify-content: left;
-}
-
-.contact-info{
-  display: flex; 
-  flex-wrap: wrap; 
-  justify-content: right;
+  font-weight: bolder;
 }
