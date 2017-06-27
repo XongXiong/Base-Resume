@@ -4,9 +4,13 @@
 }
 
 .addr-info{
-  text-align: left;
+    display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center;
 }
 
 .contact-info{
-  text align: right;
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center;
 }
