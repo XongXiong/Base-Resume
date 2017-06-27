@@ -6,11 +6,11 @@
 .addr-info{
     display: flex; 
   flex-wrap: wrap; 
-  justify-content: center;
+  justify-content: left;
 }
 
 .contact-info{
   display: flex; 
   flex-wrap: wrap; 
-  justify-content: center;
+  justify-content: right;
 }
