@@ -10,8 +10,8 @@
 
 	padding: 10px 150px 10px 150px;
 
-	border-radius: 10px;
-	background-image: url(http://www.southworth.com/shop/swatches/popup_granIte_gray.jpg);
+	border-radius: 20px;
+	
 
 	text-align: left;
   font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
@@ -50,4 +50,3 @@ p {
   text-align: center;
   font-weight: bolder;
 }
-
