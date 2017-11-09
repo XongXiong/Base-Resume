@@ -1,1 +1,5 @@
-# xongxiong.github.io
+# Resume 
+
+## Contains:
+- Contact Info
+- Work experience
